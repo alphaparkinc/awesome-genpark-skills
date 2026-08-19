@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-690%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-752-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-695%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-757-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -233,6 +233,7 @@ A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-conversational-commerce-recommendation-engine-skill](https://github.com/alphaparkinc/genpark-conversational-commerce-recommendation-engine-skill) | Developer / Agentic | Smart ingredient & price-optimized shopping recommendation agent (Konvy style) | ✅ |
 | [genpark-conversational-personal-memory-timeline-extractor-skill](https://github.com/alphaparkinc/genpark-conversational-personal-memory-timeline-extractor-skill) | Developer / Agentic | Tagless personal memory stream & timeline extractor (monolog style) | ✅ |
 | [genpark-conversational-product-advisor-skill](https://github.com/alphaparkinc/genpark-conversational-product-advisor-skill) | Developer / Agentic | Conversational product shopping assistant skill designed to guide users from product exploration to purchase. | ✅ |
+| [genpark-conversational-recruiter-notetaker-competency-scorer-skill](https://github.com/alphaparkinc/genpark-conversational-recruiter-notetaker-competency-scorer-skill) | Developer / Agentic | Conversational recruiter notetaker & candidate competency matrix scorer (Candit style) | ✅ |
 | [genpark-coupon-recommendation-skill](https://github.com/alphaparkinc/genpark-coupon-recommendation-skill) | Developer / Agentic | GenPark coupon recommendations agent skill. Audits spend thresholds and returns the highest discount code. | ✅ |
 | [genpark-coupon-referral-abuse-blocker-skill](https://github.com/alphaparkinc/genpark-coupon-referral-abuse-blocker-skill) | Developer / Agentic | Fraud check screening for coupon referrers | ✅ |
 | [genpark-coupon-referral-abuse-screening-skill](https://github.com/alphaparkinc/genpark-coupon-referral-abuse-screening-skill) | Developer / Agentic | GenPark AI Skill - Checkout promo referral stack abuse detector | ✅ |
@@ -265,6 +266,7 @@ A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-daily-goal-breaker](https://github.com/alphaparkinc/genpark-daily-goal-breaker) | Developer / Agentic | An open-source, terminal-native goal decomposition agent. Replicates daily action AI wrappers by breaking long-term objectives into micro-actions and delivering them daily via cron. | ✅ |
 | [genpark-database-migration-sql-optimizer-skill](https://github.com/alphaparkinc/genpark-database-migration-sql-optimizer-skill) | Developer / Agentic | SQL schema migration and query performance optimizer | ✅ |
 | [genpark-database-query-generator-agent-skill](https://github.com/alphaparkinc/genpark-database-query-generator-agent-skill) | Developer / Agentic | Database Query Generator Agent Skill. Converts natural language questions into safe, read-only SQL queries. | ✅ |
+| [genpark-database-schema-graph-context-window-compressor-skill](https://github.com/alphaparkinc/genpark-database-schema-graph-context-window-compressor-skill) | Developer / Agentic | Database schema relational graph to LLM context window compressor (Polygres style) | ✅ |
 | [genpark-database-schema-to-llm-context-window-transformer-skill](https://github.com/alphaparkinc/genpark-database-schema-to-llm-context-window-transformer-skill) | Developer / Agentic | Database schema & query results transformer into high-density LLM context (Polygres style) | ✅ |
 | [genpark-declarative-workflow-dag-code-generator-skill](https://github.com/alphaparkinc/genpark-declarative-workflow-dag-code-generator-skill) | Developer / Agentic | Visual flow node-graph to executable Python DAG workflow generator | ✅ |
 | [genpark-deep-research-synthesizer-skill](https://github.com/alphaparkinc/genpark-deep-research-synthesizer-skill) | Developer / Agentic | Multi-source deep research gap identifier and report synthesizer | ✅ |
@@ -333,6 +335,7 @@ A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-growth-data-analyst](https://github.com/alphaparkinc/genpark-growth-data-analyst) | Developer / Agentic | GenPark skill: genpark-growth-data-analyst based on GrowthGPT research | ✅ |
 | [genpark-guided-shopping-decision-engine-skill](https://github.com/alphaparkinc/genpark-guided-shopping-decision-engine-skill) | Developer / Agentic | Converts browsing into guided shopping decisions driving higher conversion and lower returns | ✅ |
 | [genpark-hierarchical-multi-agent-workflow-graph-orchestrator-skill](https://github.com/alphaparkinc/genpark-hierarchical-multi-agent-workflow-graph-orchestrator-skill) | Developer / Agentic | Hierarchical DAG multi-agent team orchestrator with sub-task delegation | ✅ |
+| [genpark-high-converting-social-ad-copy-variant-synthesizer-skill](https://github.com/alphaparkinc/genpark-high-converting-social-ad-copy-variant-synthesizer-skill) | Developer / Agentic | Viral multi-platform social ad copy & creative variant synthesizer (AdAnt style) | ✅ |
 | [genpark-hub](https://github.com/alphaparkinc/genpark-hub) | Developer / Agentic | GenPark & OpenClaw Premium Growth Hub, Showcase and Live Skill Generator. | ✅ |
 | [genpark-hubspot-ai-search-grader-skill](https://github.com/alphaparkinc/genpark-hubspot-ai-search-grader-skill) | Developer / Agentic | Evaluate brand visibility and ranking scores across AI search models | ✅ |
 | [genpark-human-in-the-loop-annotation-orchestrator-skill](https://github.com/alphaparkinc/genpark-human-in-the-loop-annotation-orchestrator-skill) | Developer / Agentic | Human-agent hybrid dataset annotation protocol orchestrator (Notate style) | ✅ |
@@ -340,6 +343,7 @@ A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-industrial-vision-inspection-agent-skill](https://github.com/alphaparkinc/genpark-industrial-vision-inspection-agent-skill) | Developer / Agentic | Industrial computer vision defect detection (ABB Visual AI style) | ✅ |
 | [genpark-influencer-match-skill](https://github.com/alphaparkinc/genpark-influencer-match-skill) | Developer / Agentic | GenPark AI Skill - Match products with optimal influencer profiles based on category, audience fit, engagement, and ROI | ✅ |
 | [genpark-inline-cursor-context-intelligence-rewriter-skill](https://github.com/alphaparkinc/genpark-inline-cursor-context-intelligence-rewriter-skill) | Developer / Agentic | Inline cursor context intelligence, instant text rewriter & screen assistant (Attyn style) | ✅ |
+| [genpark-instant-agent-sandbox-container-provisioner-skill](https://github.com/alphaparkinc/genpark-instant-agent-sandbox-container-provisioner-skill) | Developer / Agentic | Instant autonomous agent sandbox container provisioner (BetterClaw style) | ✅ |
 | [genpark-intel-radar](https://github.com/alphaparkinc/genpark-intel-radar) | Developer / Agentic | An autonomous competitive intelligence engine for enterprise agents. Fetches strategic updates, product launches, and market chatter on tracked competitors. Requires zero API keys or web-scraping infrastructure. | ✅ |
 | [genpark-intelligent-document-parser-skill](https://github.com/alphaparkinc/genpark-intelligent-document-parser-skill) | Developer / Agentic | Multimodal document layout analysis and OCR entity extraction engine | ✅ |
 | [genpark-intelligent-file-routing-content-sync-skill](https://github.com/alphaparkinc/genpark-intelligent-file-routing-content-sync-skill) | Developer / Agentic | Intelligent file routing, dynamic categorizer & cloud sync (FileRouter style) | ✅ |
@@ -370,6 +374,7 @@ A curated catalog of **690+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-live-chat-triage-skill](https://github.com/alphaparkinc/genpark-live-chat-triage-skill) | Developer / Agentic | GenPark AI Skill - Triage customer chat messages by intent urgency and sentiment, route to the right team and suggest instant responses | ✅ |
 | [genpark-llm-api-cost-model-selector-optimizer-skill](https://github.com/alphaparkinc/genpark-llm-api-cost-model-selector-optimizer-skill) | Developer / Agentic | Intelligent LLM API cost analyzer, model tier selector & monthly spend optimizer | ✅ |
 | [genpark-llm-cost-tokens-monitor-skill](https://github.com/alphaparkinc/genpark-llm-cost-tokens-monitor-skill) | Developer / Agentic | Session tokens count and budget tracking helper | ✅ |
+| [genpark-llm-distributed-trace-latency-bottleneck-detector-skill](https://github.com/alphaparkinc/genpark-llm-distributed-trace-latency-bottleneck-detector-skill) | Developer / Agentic | LLM distributed trace analyzer & latency bottleneck detector (TraceLLM style) | ✅ |
 | [genpark-llm-eval-benchmark-grader-skill](https://github.com/alphaparkinc/genpark-llm-eval-benchmark-grader-skill) | Developer / Agentic | LLM outputs validation factuality checker | ✅ |
 | [genpark-llm-fallback-routing-skill](https://github.com/alphaparkinc/genpark-llm-fallback-routing-skill) | Developer / Agentic | Timeout and exception failover routing for API endpoints | ✅ |
 | [genpark-llm-inference-throughput-hardware-benchmark-skill](https://github.com/alphaparkinc/genpark-llm-inference-throughput-hardware-benchmark-skill) | Developer / Agentic | Real-time LLM inference throughput profiler & benchmark (Inferock Bench style) | ✅ |
