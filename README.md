@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-703%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-765-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-705%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-767-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **703+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **705+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -36,6 +36,7 @@ A curated catalog of **703+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ad-scaler](https://github.com/alphaparkinc/genpark-ad-scaler) | Developer / Agentic | GenPark AI Agent Skill | ✅ |
 | [genpark-ad-spend-optimizer-skill](https://github.com/alphaparkinc/genpark-ad-spend-optimizer-skill) | Developer / Agentic | GenPark AI Skill - Multi-channel ROAS tracking ad allocation optimizer | ✅ |
 | [genpark-aeo-entity-schema-markup-skill](https://github.com/alphaparkinc/genpark-aeo-entity-schema-markup-skill) | Developer / Agentic | Compile specifications into Schema.org JSON-LD snippets for AEO | ✅ |
+| [genpark-affiliate-creator-discovery-commission-negotiator-skill](https://github.com/alphaparkinc/genpark-affiliate-creator-discovery-commission-negotiator-skill) | Developer / Agentic | Affiliate creator discovery engine & commission negotiator (Influx style) | ✅ |
 | [genpark-agent-artifact-cache-version-checkpoint-skill](https://github.com/alphaparkinc/genpark-agent-artifact-cache-version-checkpoint-skill) | Developer / Agentic | High-throughput agent artifact cache & snapshot checkpointer (BearDrive style) | ✅ |
 | [genpark-agent-compliance-content-guardrail-skill](https://github.com/alphaparkinc/genpark-agent-compliance-content-guardrail-skill) | Developer / Agentic | Double-directional compliance policies guardrail | ✅ |
 | [genpark-agent-consensus-voting-skill](https://github.com/alphaparkinc/genpark-agent-consensus-voting-skill) | Developer / Agentic | Majority voting consensus decider | ✅ |
@@ -427,6 +428,7 @@ A curated catalog of **703+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-multi-agent-task-delegation-router-skill](https://github.com/alphaparkinc/genpark-multi-agent-task-delegation-router-skill) | Developer / Agentic | Multi-agent dynamic task delegation and role router | ✅ |
 | [genpark-multi-agent-task-orchestrator-skill](https://github.com/alphaparkinc/genpark-multi-agent-task-orchestrator-skill) | Developer / Agentic | Scalable multi-agent collaboration, delegation, and consensus platform | ✅ |
 | [genpark-multi-channel-conversational-sales-agent-skill](https://github.com/alphaparkinc/genpark-multi-channel-conversational-sales-agent-skill) | Developer / Agentic | Multi-channel conversational sales & 1-click checkout agent | ✅ |
+| [genpark-multi-language-livestream-host-teleprompter-script-synthesizer-skill](https://github.com/alphaparkinc/genpark-multi-language-livestream-host-teleprompter-script-synthesizer-skill) | Developer / Agentic | Real-time multilingual livestream host teleprompter & Q&A assistant | ✅ |
 | [genpark-multi-language-social-video-script-adapter-skill](https://github.com/alphaparkinc/genpark-multi-language-social-video-script-adapter-skill) | Developer / Agentic | Multi-language short-form video script generator & cultural nuance adapter | ✅ |
 | [genpark-multi-llm-router-cost-latency-optimizer-skill](https://github.com/alphaparkinc/genpark-multi-llm-router-cost-latency-optimizer-skill) | Developer / Agentic | Dynamic LLM router for complexity, latency & token cost optimization | ✅ |
 | [genpark-multi-locale-canvas-auto-translation-engine-skill](https://github.com/alphaparkinc/genpark-multi-locale-canvas-auto-translation-engine-skill) | Developer / Agentic | Multi-locale canvas & CMS auto-translation engine with RTL layout | ✅ |
