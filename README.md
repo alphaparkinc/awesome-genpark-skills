@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-695%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-757-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-703%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-765-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **703+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -244,6 +244,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-creative-strategist](https://github.com/alphaparkinc/genpark-creative-strategist) | Developer / Agentic | GenPark skill: genpark-creative-strategist based on GrowthGPT research | ✅ |
 | [genpark-credit-metered-budget-skill](https://github.com/alphaparkinc/genpark-credit-metered-budget-skill) | Developer / Agentic | AI task credit cost estimator and budget optimizer | ✅ |
 | [genpark-cross-app-user-activity-memory-skill](https://github.com/alphaparkinc/genpark-cross-app-user-activity-memory-skill) | Developer / Agentic | Continuous workplace activity recording & memory context engine (Screenpipe inspired) | ✅ |
+| [genpark-cross-border-brand-ugc-content-roi-optimizer-skill](https://github.com/alphaparkinc/genpark-cross-border-brand-ugc-content-roi-optimizer-skill) | Developer / Agentic | Cross-border brand UGC viral content synthesizer & ROI optimizer | ✅ |
 | [genpark-cross-border-commerce-skill](https://github.com/alphaparkinc/genpark-cross-border-commerce-skill) | Developer / Agentic | GenPark AI Skill - Multi-currency conversion, import duties, international shipping costs and compliance checks for cross-border e-commerce | ✅ |
 | [genpark-cross-channel-marketing-data-joiner-skill](https://github.com/alphaparkinc/genpark-cross-channel-marketing-data-joiner-skill) | Developer / Agentic | Joins programmatic ad data with retail & inventory for total ROAS | ✅ |
 | [genpark-cross-modal-creative-campaign-planner-skill](https://github.com/alphaparkinc/genpark-cross-modal-creative-campaign-planner-skill) | Developer / Agentic | Cross-modal brand visual identity & multi-platform ad matrix planner (Omniwork style) | ✅ |
@@ -322,6 +323,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-generative-engine-spam-filter-skill](https://github.com/alphaparkinc/genpark-generative-engine-spam-filter-skill) | Developer / Agentic | Audit text descriptions to prevent over-optimized GEO keywords spam | ✅ |
 | [genpark-generative-engine-visibility-tracker-skill](https://github.com/alphaparkinc/genpark-generative-engine-visibility-tracker-skill) | Developer / Agentic | Track average brand and product visibility metrics across LLM searches | ✅ |
 | [genpark-generative-seo-skill](https://github.com/alphaparkinc/genpark-generative-seo-skill) | Developer / Agentic | Generative Engine Optimization (GEO) agent designed to audit and rewrite product copy to maximize citation probability and visibility on AI-powered search engines. | ✅ |
+| [genpark-generative-social-creative-ad-variation-synthesizer-skill](https://github.com/alphaparkinc/genpark-generative-social-creative-ad-variation-synthesizer-skill) | Developer / Agentic | High-throughput social ad creative & storyboard synthesizer (Tec-Creative style) | ✅ |
 | [genpark-generative-ui-layout-builder-skill](https://github.com/alphaparkinc/genpark-generative-ui-layout-builder-skill) | Developer / Agentic | Generative UI/UX layout and component builder (Framer style) | ✅ |
 | [genpark-ghostwriter](https://github.com/alphaparkinc/genpark-ghostwriter) | Developer / Agentic | OpenClaw Agent Skill: genpark-ghostwriter | ✅ |
 | [genpark-gift-card-generator-skill](https://github.com/alphaparkinc/genpark-gift-card-generator-skill) | Developer / Agentic | GenPark AI Skill - Automatic reward gift card code issuer and verification coordinator | ✅ |
@@ -329,6 +331,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-git-commit-graph-branch-conflict-coordinator-skill](https://github.com/alphaparkinc/genpark-git-commit-graph-branch-conflict-coordinator-skill) | Developer / Agentic | Multi-agent git commit graph visualizer & branch conflict coordinator (GitLens style) | ✅ |
 | [genpark-git-commit-message-changelog-synthesizer-skill](https://github.com/alphaparkinc/genpark-git-commit-message-changelog-synthesizer-skill) | Developer / Agentic | Git diff commit message and changelog generator | ✅ |
 | [genpark-github-pull-request-auto-fix-resolver-skill](https://github.com/alphaparkinc/genpark-github-pull-request-auto-fix-resolver-skill) | Developer / Agentic | Autonomous GitHub PR issue diagnosis & self-merging code fixer (Gitar style) | ✅ |
+| [genpark-global-creator-network-campaign-matcher-skill](https://github.com/alphaparkinc/genpark-global-creator-network-campaign-matcher-skill) | Developer / Agentic | Global creator network campaign matcher & ROI predictor (SparkFly style) | ✅ |
 | [genpark-goose-ads-remixer-skill](https://github.com/alphaparkinc/genpark-goose-ads-remixer-skill) | Developer / Agentic | Remix and adapt top performing ad copywriting formats | ✅ |
 | [genpark-graphql-schema-query-optimizer-skill](https://github.com/alphaparkinc/genpark-graphql-schema-query-optimizer-skill) | Developer / Agentic | GraphQL schema and query N+1 problem optimizer | ✅ |
 | [genpark-growth-agent](https://github.com/alphaparkinc/genpark-growth-agent) | Developer / Agentic | Omnichannel marketing and SEO automation engine. | ✅ |
@@ -372,6 +375,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-lens](https://github.com/alphaparkinc/genpark-lens) | Developer / Agentic | An open-source Visual Agent that turns any image into a structured curiosity engine across 4 dimensions (Identification, Utility, Insight, Vibe). A free, superior alternative to Chance AI. | ✅ |
 | [genpark-lev8-prospect-researcher-skill](https://github.com/alphaparkinc/genpark-lev8-prospect-researcher-skill) | Developer / Agentic | Lev8-like AI prospecting tool to find, research, and score sales targets | ✅ |
 | [genpark-live-chat-triage-skill](https://github.com/alphaparkinc/genpark-live-chat-triage-skill) | Developer / Agentic | GenPark AI Skill - Triage customer chat messages by intent urgency and sentiment, route to the right team and suggest instant responses | ✅ |
+| [genpark-livestreaming-ecommerce-multi-room-gmv-optimizer-skill](https://github.com/alphaparkinc/genpark-livestreaming-ecommerce-multi-room-gmv-optimizer-skill) | Developer / Agentic | Livestream e-commerce multi-room monitoring & GMV sales optimizer (LiveLab style) | ✅ |
 | [genpark-llm-api-cost-model-selector-optimizer-skill](https://github.com/alphaparkinc/genpark-llm-api-cost-model-selector-optimizer-skill) | Developer / Agentic | Intelligent LLM API cost analyzer, model tier selector & monthly spend optimizer | ✅ |
 | [genpark-llm-cost-tokens-monitor-skill](https://github.com/alphaparkinc/genpark-llm-cost-tokens-monitor-skill) | Developer / Agentic | Session tokens count and budget tracking helper | ✅ |
 | [genpark-llm-distributed-trace-latency-bottleneck-detector-skill](https://github.com/alphaparkinc/genpark-llm-distributed-trace-latency-bottleneck-detector-skill) | Developer / Agentic | LLM distributed trace analyzer & latency bottleneck detector (TraceLLM style) | ✅ |
@@ -384,6 +388,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-llm-token-budget-consumption-meter-governor-skill](https://github.com/alphaparkinc/genpark-llm-token-budget-consumption-meter-governor-skill) | Developer / Agentic | Self-custody LLM API key usage meter & token budget governor (Lettertrace style) | ✅ |
 | [genpark-llm-token-context-compressor-cost-reducer-skill](https://github.com/alphaparkinc/genpark-llm-token-context-compressor-cost-reducer-skill) | Developer / Agentic | High-efficiency LLM prompt context compressor & API cost reducer | ✅ |
 | [genpark-local-llm-fine-tuning-hardware-benchmark-skill](https://github.com/alphaparkinc/genpark-local-llm-fine-tuning-hardware-benchmark-skill) | Developer / Agentic | Local LLM fine-tuning orchestrator & GPU memory profiler (Unsloth style) | ✅ |
+| [genpark-localized-creator-pr-media-amplification-skill](https://github.com/alphaparkinc/genpark-localized-creator-pr-media-amplification-skill) | Developer / Agentic | Localized creator PR outreach & digital media amplification orchestrator | ✅ |
 | [genpark-loomal-mcp-billing-gateway-skill](https://github.com/alphaparkinc/genpark-loomal-mcp-billing-gateway-skill) | Developer / Agentic | Loomal-like billing gateway for MCP servers usage | ✅ |
 | [genpark-loova-conversion-ad-skill](https://github.com/alphaparkinc/genpark-loova-conversion-ad-skill) | Developer / Agentic | Loova Ads Studio-like high-conversion ad creative generator | ✅ |
 | [genpark-loyalty-program-designer-skill](https://github.com/alphaparkinc/genpark-loyalty-program-designer-skill) | Developer / Agentic | GenPark AI Skill - Design tiered customer loyalty programs with points systems, rewards and ROI projections | ✅ |
@@ -422,10 +427,12 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-multi-agent-task-delegation-router-skill](https://github.com/alphaparkinc/genpark-multi-agent-task-delegation-router-skill) | Developer / Agentic | Multi-agent dynamic task delegation and role router | ✅ |
 | [genpark-multi-agent-task-orchestrator-skill](https://github.com/alphaparkinc/genpark-multi-agent-task-orchestrator-skill) | Developer / Agentic | Scalable multi-agent collaboration, delegation, and consensus platform | ✅ |
 | [genpark-multi-channel-conversational-sales-agent-skill](https://github.com/alphaparkinc/genpark-multi-channel-conversational-sales-agent-skill) | Developer / Agentic | Multi-channel conversational sales & 1-click checkout agent | ✅ |
+| [genpark-multi-language-social-video-script-adapter-skill](https://github.com/alphaparkinc/genpark-multi-language-social-video-script-adapter-skill) | Developer / Agentic | Multi-language short-form video script generator & cultural nuance adapter | ✅ |
 | [genpark-multi-llm-router-cost-latency-optimizer-skill](https://github.com/alphaparkinc/genpark-multi-llm-router-cost-latency-optimizer-skill) | Developer / Agentic | Dynamic LLM router for complexity, latency & token cost optimization | ✅ |
 | [genpark-multi-locale-canvas-auto-translation-engine-skill](https://github.com/alphaparkinc/genpark-multi-locale-canvas-auto-translation-engine-skill) | Developer / Agentic | Multi-locale canvas & CMS auto-translation engine with RTL layout | ✅ |
 | [genpark-multi-modal-dataset-synthetic-augmentation-engine-skill](https://github.com/alphaparkinc/genpark-multi-modal-dataset-synthetic-augmentation-engine-skill) | Developer / Agentic | Multi-modal dataset generator & synthetic image-text augmentation engine | ✅ |
 | [genpark-multi-model-cost-latency-price-performance-router-skill](https://github.com/alphaparkinc/genpark-multi-model-cost-latency-price-performance-router-skill) | Developer / Agentic | Real-time cross-provider LLM price-performance cost estimator & dynamic router | ✅ |
+| [genpark-multi-platform-creator-attribution-analytics-skill](https://github.com/alphaparkinc/genpark-multi-platform-creator-attribution-analytics-skill) | Developer / Agentic | Multi-platform creator attribution analytics & conversion tracking engine | ✅ |
 | [genpark-multi-repo-architectural-risk-complexity-scorer-skill](https://github.com/alphaparkinc/genpark-multi-repo-architectural-risk-complexity-scorer-skill) | Developer / Agentic | Multi-repo complexity scorer & architectural change risk estimator (Clears style) | ✅ |
 | [genpark-multi-source-research-spark-page-synthesizer-skill](https://github.com/alphaparkinc/genpark-multi-source-research-spark-page-synthesizer-skill) | Developer / Agentic | Multi-source web research, fact checking & summary page synthesizer | ✅ |
 | [genpark-multichannel-ad-campaign-skill](https://github.com/alphaparkinc/genpark-multichannel-ad-campaign-skill) | Developer / Agentic | AI-powered cross-channel ad campaign coordinator designed to generate ad copy variations, allocate budgets, and output production-ready ad manager payloads. | ✅ |
@@ -452,6 +459,7 @@ A curated catalog of **695+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-nomac-headless-ios-deployer-skill](https://github.com/alphaparkinc/genpark-nomac-headless-ios-deployer-skill) | Developer / Agentic | NoMac headless iOS publishing orchestrator | ✅ |
 | [genpark-non-dilutive-capital-eligibility-scoring-engine-skill](https://github.com/alphaparkinc/genpark-non-dilutive-capital-eligibility-scoring-engine-skill) | Developer / Agentic | Growth capital & non-dilutive credit line eligibility scoring engine | ✅ |
 | [genpark-nuvio-social-mrr-updater-skill](https://github.com/alphaparkinc/genpark-nuvio-social-mrr-updater-skill) | Developer / Agentic | Nuvio dynamic X (Twitter) bio updater based on Stripe MRR | ✅ |
+| [genpark-omnichannel-social-shop-product-catalog-synchronizer-skill](https://github.com/alphaparkinc/genpark-omnichannel-social-shop-product-catalog-synchronizer-skill) | Developer / Agentic | Omnichannel social shop product catalog synchronizer (ShopSync style) | ✅ |
 | [genpark-on-device-voice-dictation-text-injector-skill](https://github.com/alphaparkinc/genpark-on-device-voice-dictation-text-injector-skill) | Developer / Agentic | On-device voice dictation, noise filtering & real-time text injector (Zen Whisper style) | ✅ |
 | [genpark-open-source-local-agent-orchestrator-skill](https://github.com/alphaparkinc/genpark-open-source-local-agent-orchestrator-skill) | Developer / Agentic | Open-source local-first agent orchestrator for privacy workflow (OpenClaw style) | ✅ |
 | [genpark-open-source-on-device-dictation-agent-skill](https://github.com/alphaparkinc/genpark-open-source-on-device-dictation-agent-skill) | Developer / Agentic | 100% on-device local speech-to-text dictation agent (Megaphone style) | ✅ |
