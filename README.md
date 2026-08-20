@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-710%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-772-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-715%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-777-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **715+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -83,6 +83,7 @@ A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-calendar-smart-scheduling-conflict-resolver-skill](https://github.com/alphaparkinc/genpark-ai-calendar-smart-scheduling-conflict-resolver-skill) | Developer / Agentic | AI-powered smart calendar scheduling, conflict resolution & deep work optimizer | ✅ |
 | [genpark-ai-calls-phone-reporter-skill](https://github.com/alphaparkinc/genpark-ai-calls-phone-reporter-skill) | Developer / Agentic | AI outbound call simulator with structured field collection | ✅ |
 | [genpark-ai-code-refactoring-lint-fixer-skill](https://github.com/alphaparkinc/genpark-ai-code-refactoring-lint-fixer-skill) | Developer / Agentic | Automated code refactoring and lint error fixer engine | ✅ |
+| [genpark-ai-code-review-sandbox-execution-verifier-skill](https://github.com/alphaparkinc/genpark-ai-code-review-sandbox-execution-verifier-skill) | Developer / Agentic | AI code reviewer that sandboxes & executes PR diffs before merge (Ito style) | ✅ |
 | [genpark-ai-code-review-security-taint-analyzer-skill](https://github.com/alphaparkinc/genpark-ai-code-review-security-taint-analyzer-skill) | Developer / Agentic | Autonomous AI PR reviewer & security taint analyzer (Ito style) | ✅ |
 | [genpark-ai-comment-skill](https://github.com/alphaparkinc/genpark-ai-comment-skill) | Developer / Agentic | An AI agent skill for decision-intent social media marketing. | ✅ |
 | [genpark-ai-developer-fullstack-builder-skill](https://github.com/alphaparkinc/genpark-ai-developer-fullstack-builder-skill) | Developer / Agentic | L4 autonomous coding agent file tree and deploy plan generator | ✅ |
@@ -120,6 +121,7 @@ A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-api-spec-auto-mock-generator-skill](https://github.com/alphaparkinc/genpark-api-spec-auto-mock-generator-skill) | Developer / Agentic | OpenAPI spec mock server response generator | ✅ |
 | [genpark-app-scaffolder](https://github.com/alphaparkinc/genpark-app-scaffolder) | Developer / Agentic | Terminal-native full-stack app generator. | ✅ |
 | [genpark-approval-first-agent-operating-system-skill](https://github.com/alphaparkinc/genpark-approval-first-agent-operating-system-skill) | Developer / Agentic | Approval-first AI agent OS for human-in-the-loop autonomous workflows (Soloop style) | ✅ |
+| [genpark-approval-first-agent-task-execution-governor-skill](https://github.com/alphaparkinc/genpark-approval-first-agent-task-execution-governor-skill) | Developer / Agentic | Human-in-the-loop approval gate for autonomous AI agent task execution (Soloop style) | ✅ |
 | [genpark-arbitrage](https://github.com/alphaparkinc/genpark-arbitrage) | Developer / Agentic | OpenClaw Agent Skill: genpark-arbitrage | ✅ |
 | [genpark-attribute-normalizer-skill](https://github.com/alphaparkinc/genpark-attribute-normalizer-skill) | Developer / Agentic | GenPark product characteristics and categories normalizer skill. | ✅ |
 | [genpark-audio-speech-emotion-sentiment-analyzer-skill](https://github.com/alphaparkinc/genpark-audio-speech-emotion-sentiment-analyzer-skill) | Developer / Agentic | Audio speech emotion & vocal tone sentiment analyzer | ✅ |
@@ -453,6 +455,7 @@ A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-nano-banana-stylizer](https://github.com/alphaparkinc/genpark-nano-banana-stylizer) | Developer / Agentic | GenPark Distilled Skill: nano-banana-stylizer | ✅ |
 | [genpark-nano-banana-video-orchestrator](https://github.com/alphaparkinc/genpark-nano-banana-video-orchestrator) | Developer / Agentic | GenPark Distilled Skill: nano-banana-video-orchestrator | ✅ |
 | [genpark-natural-language-data-analytics-bi-agent-skill](https://github.com/alphaparkinc/genpark-natural-language-data-analytics-bi-agent-skill) | Developer / Agentic | AI-native business intelligence data query & chart visualization agent (Basedash style) | ✅ |
+| [genpark-natural-language-e2e-browser-mobile-test-generator-skill](https://github.com/alphaparkinc/genpark-natural-language-e2e-browser-mobile-test-generator-skill) | Developer / Agentic | Natural language to structured E2E browser & mobile test suite generator (Kane CLI style) | ✅ |
 | [genpark-natural-language-e2e-test-generator-skill](https://github.com/alphaparkinc/genpark-natural-language-e2e-test-generator-skill) | Developer / Agentic | Natural language to end-to-end browser test generator & validator (Kane CLI style) | ✅ |
 | [genpark-natural-language-spec-to-fullstack-app-generator-skill](https://github.com/alphaparkinc/genpark-natural-language-spec-to-fullstack-app-generator-skill) | Developer / Agentic | Conversational spec-to-fullstack code generator (Vibe Coding style) | ✅ |
 | [genpark-nautis-ai-os-operator-skill](https://github.com/alphaparkinc/genpark-nautis-ai-os-operator-skill) | Developer / Agentic | Nautis-like AI-native OS operator for founder business management | ✅ |
@@ -508,6 +511,7 @@ A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-price-elasticity-skill](https://github.com/alphaparkinc/genpark-price-elasticity-skill) | Developer / Agentic | GenPark AI Skill - Calculate price elasticity of demand and find revenue-maximizing price points for e-commerce products | ✅ |
 | [genpark-pricing-tier-agent-skill](https://github.com/alphaparkinc/genpark-pricing-tier-agent-skill) | Developer / Agentic | GenPark dynamic billing and SaaS pricing tier coordinator skill. | ✅ |
 | [genpark-privacy-first-offline-llm-runtime-skill](https://github.com/alphaparkinc/genpark-privacy-first-offline-llm-runtime-skill) | Developer / Agentic | Privacy-first zero-cloud offline LLM inference & local memory runtime (LumiChats style) | ✅ |
+| [genpark-proactive-ai-executive-assistant-meeting-scheduler-skill](https://github.com/alphaparkinc/genpark-proactive-ai-executive-assistant-meeting-scheduler-skill) | Developer / Agentic | Proactive AI executive assistant for meeting scheduling & agenda synthesis (Hey Noah style) | ✅ |
 | [genpark-proactive-e-commerce-team-agent-skill](https://github.com/alphaparkinc/genpark-proactive-e-commerce-team-agent-skill) | Developer / Agentic | Goal-driven proactive AI team agent for e-commerce operations (ClawTeams style) | ✅ |
 | [genpark-proactive-executive-assistant-task-scheduler-skill](https://github.com/alphaparkinc/genpark-proactive-executive-assistant-task-scheduler-skill) | Developer / Agentic | Proactive executive AI assistant for autonomous task scheduling (Hey Noah style) | ✅ |
 | [genpark-proactive-founder-calendar-negotiation-copilot-skill](https://github.com/alphaparkinc/genpark-proactive-founder-calendar-negotiation-copilot-skill) | Developer / Agentic | Proactive founder calendar negotiation copilot & meeting triage (Hey Noah style) | ✅ |
@@ -682,6 +686,7 @@ A curated catalog of **710+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-vocalvia-document-audio-composer-skill](https://github.com/alphaparkinc/genpark-vocalvia-document-audio-composer-skill) | Developer / Agentic | Multi-voice dialog script arranger | ✅ |
 | [genpark-voice-ai-conversational-agent-scaler-skill](https://github.com/alphaparkinc/genpark-voice-ai-conversational-agent-scaler-skill) | Developer / Agentic | Multimodal voice conversation scaling and agent dialogue manager (ElevenAgents style) | ✅ |
 | [genpark-voice-call-realtime-sentiment-interceptor-skill](https://github.com/alphaparkinc/genpark-voice-call-realtime-sentiment-interceptor-skill) | Developer / Agentic | Real-time duplex voice call sentiment interceptor & script adapter (Dograh style) | ✅ |
+| [genpark-voice-command-structured-action-dispatcher-skill](https://github.com/alphaparkinc/genpark-voice-command-structured-action-dispatcher-skill) | Developer / Agentic | Voice command transcription & structured autonomous action dispatcher (Wispr Flow style) | ✅ |
 | [genpark-voice-first-logistics-coordinator-skill](https://github.com/alphaparkinc/genpark-voice-first-logistics-coordinator-skill) | Developer / Agentic | Voice-first autonomous logistics & freight dispatch coordinator | ✅ |
 | [genpark-voice-first-multimodal-dictation-note-synthesizer-skill](https://github.com/alphaparkinc/genpark-voice-first-multimodal-dictation-note-synthesizer-skill) | Developer / Agentic | Voice-first dictation & multimodal note synthesizer (Wispr style) | ✅ |
 | [genpark-voice-memo-task-list-converter-skill](https://github.com/alphaparkinc/genpark-voice-memo-task-list-converter-skill) | Developer / Agentic | Voice memo to structured task list converter | ✅ |
