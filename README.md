@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-730%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-792-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-735%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-797-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **730+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **735+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -92,8 +92,10 @@ A curated catalog of **730+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-enterprise-proposal-pitch-builder-skill](https://github.com/alphaparkinc/genpark-ai-enterprise-proposal-pitch-builder-skill) | Developer / Agentic | Automated enterprise RFP & proposal builder (G2 Proposal style) | ✅ |
 | [genpark-ai-evaluation-custom-benchmark-runner-skill](https://github.com/alphaparkinc/genpark-ai-evaluation-custom-benchmark-runner-skill) | Developer / Agentic | Real-world AI task evaluation & custom benchmark runner (oqoqo style) | ✅ |
 | [genpark-ai-fact-checker-skill](https://github.com/alphaparkinc/genpark-ai-fact-checker-skill) | Developer / Agentic | Statement fact verifier with TRUE/FALSE/PARTIAL verdict | ✅ |
+| [genpark-ai-financial-crime-transaction-pattern-detector-skill](https://github.com/alphaparkinc/genpark-ai-financial-crime-transaction-pattern-detector-skill) | Developer / Agentic | Agentic financial crime detector: flags AML/fraud patterns & generates regulatory SAR draft reports | ✅ |
 | [genpark-ai-gateway-proxy-router-governance-skill](https://github.com/alphaparkinc/genpark-ai-gateway-proxy-router-governance-skill) | Developer / Agentic | AI Gateway proxy router, rate limiting & PII masking engine (ngrok style) | ✅ |
 | [genpark-ai-generated-code-vulnerability-taint-patcher-skill](https://github.com/alphaparkinc/genpark-ai-generated-code-vulnerability-taint-patcher-skill) | Developer / Agentic | AI code vulnerability scanner & AST taint patcher (VulX style) | ✅ |
+| [genpark-ai-marketing-agent-campaign-lifecycle-manager-skill](https://github.com/alphaparkinc/genpark-ai-marketing-agent-campaign-lifecycle-manager-skill) | Developer / Agentic | Autonomous AI marketing agent planning, launching & optimizing full-funnel campaign lifecycles (G2 Marketing Agents) | ✅ |
 | [genpark-ai-meeting-lifecycle-crm-sync-action-executor-skill](https://github.com/alphaparkinc/genpark-ai-meeting-lifecycle-crm-sync-action-executor-skill) | Developer / Agentic | AI meeting note taker, transcript summarizer & CRM deal field sync executor (Fireflies/n8n style) | ✅ |
 | [genpark-ai-meeting-transcript-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-ai-meeting-transcript-action-item-extractor-skill) | Developer / Agentic | Meeting transcript intelligent summarizer & action item extractor | ✅ |
 | [genpark-ai-model-consensus-fact-verification-engine-skill](https://github.com/alphaparkinc/genpark-ai-model-consensus-fact-verification-engine-skill) | Developer / Agentic | Cross-LLM consensus fact verification & evidence scoring engine | ✅ |
@@ -101,12 +103,15 @@ A curated catalog of **730+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-native-crm-lead-relationship-manager-skill](https://github.com/alphaparkinc/genpark-ai-native-crm-lead-relationship-manager-skill) | Developer / Agentic | AI-native CRM automating lead scoring & relationship management (Lightfield style) | ✅ |
 | [genpark-ai-native-devops-iac-synthesizer-skill](https://github.com/alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill) | Developer / Agentic | AI-native DevOps workspace, Terraform IaC synthesizer & drift detector (Nuphos style) | ✅ |
 | [genpark-ai-photo-enhancement-super-resolution-retoucher-skill](https://github.com/alphaparkinc/genpark-ai-photo-enhancement-super-resolution-retoucher-skill) | Developer / Agentic | High-fidelity AI photo enhancement & super-resolution upscaler (Fotor style) | ✅ |
+| [genpark-ai-presentation-slide-narrative-generator-skill](https://github.com/alphaparkinc/genpark-ai-presentation-slide-narrative-generator-skill) | Developer / Agentic | AI presentation architect converting raw data into structured slide decks with speaker notes (G2 Presentation AI) | ✅ |
 | [genpark-ai-qa-test-generator-skill](https://github.com/alphaparkinc/genpark-ai-qa-test-generator-skill) | Developer / Agentic | Automated QA regression test case generator from feature desc | ✅ |
 | [genpark-ai-regulatory-compliance-export-control-scanner-skill](https://github.com/alphaparkinc/genpark-ai-regulatory-compliance-export-control-scanner-skill) | Developer / Agentic | AI regulatory compliance, export control directive & safety audit scanner | ✅ |
+| [genpark-ai-sales-roleplay-objection-handling-coach-skill](https://github.com/alphaparkinc/genpark-ai-sales-roleplay-objection-handling-coach-skill) | Developer / Agentic | AI sales roleplay coach simulating buyer personas, scoring objection handling & generating rep improvement plans | ✅ |
 | [genpark-ai-sdr-website-visitor-pipeline-qualifier-skill](https://github.com/alphaparkinc/genpark-ai-sdr-website-visitor-pipeline-qualifier-skill) | Developer / Agentic | AI SDR agent that de-anonymizes visitors, scores fit & triggers outreach sequences (Clara AI style) | ✅ |
 | [genpark-ai-search-citation-provenance-verifier-skill](https://github.com/alphaparkinc/genpark-ai-search-citation-provenance-verifier-skill) | Developer / Agentic | Fact-checking & web citation provenance verifier scoring claim accuracy | ✅ |
 | [genpark-ai-sheets-data-analyzer-skill](https://github.com/alphaparkinc/genpark-ai-sheets-data-analyzer-skill) | Developer / Agentic | Natural language CSV data analyzer and chart recommender | ✅ |
 | [genpark-ai-slides-deck-builder-skill](https://github.com/alphaparkinc/genpark-ai-slides-deck-builder-skill) | Developer / Agentic | AI-powered presentation deck outline and slide structure | ✅ |
+| [genpark-ai-social-ad-creative-multi-variant-generator-skill](https://github.com/alphaparkinc/genpark-ai-social-ad-creative-multi-variant-generator-skill) | Developer / Agentic | AI social ad creative engine for multi-variant high-converting ad copy & CTA A/B testing (AdAnt AI style) | ✅ |
 | [genpark-ai-sre-observability-root-cause-diagnoser-skill](https://github.com/alphaparkinc/genpark-ai-sre-observability-root-cause-diagnoser-skill) | Developer / Agentic | AI SRE telemetry & root-cause incident auto-healing (G2 SRE style) | ✅ |
 | [genpark-ai-vibe-coder-refactoring-engine-skill](https://github.com/alphaparkinc/genpark-ai-vibe-coder-refactoring-engine-skill) | Developer / Agentic | Natural language vibe coding refactoring & codebase optimization (Kastra style) | ✅ |
 | [genpark-ai-video-caption-subtitle-generator-skill](https://github.com/alphaparkinc/genpark-ai-video-caption-subtitle-generator-skill) | Developer / Agentic | Word-level animated subtitle and auto-caption generator for video (CapCut style) | ✅ |
