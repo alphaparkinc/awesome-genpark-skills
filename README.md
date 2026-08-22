@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-760%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-822-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-765%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-827-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **760+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **765+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -336,6 +336,7 @@ A curated catalog of **760+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-enterprise-agent-permission-boundary-governor-skill](https://github.com/alphaparkinc/genpark-enterprise-agent-permission-boundary-governor-skill) | Developer / Agentic | Enterprise agent execution environment & permission boundary governor (Tines style) | ✅ |
 | [genpark-enterprise-agentic-crm-orchestrator-skill](https://github.com/alphaparkinc/genpark-enterprise-agentic-crm-orchestrator-skill) | Developer / Agentic | Enterprise agentic CRM orchestrator (Agentforce G2 Leader style) | ✅ |
 | [genpark-enterprise-ai-agent-control-plane-governor-skill](https://github.com/alphaparkinc/genpark-enterprise-ai-agent-control-plane-governor-skill) | Developer / Agentic | Enterprise AI agent control plane & cost governor (Cohesor style) | ✅ |
+| [genpark-enterprise-ai-dlp-governance-gateway-skill](https://github.com/alphaparkinc/genpark-enterprise-ai-dlp-governance-gateway-skill) | Developer / Agentic | Enterprise AI DLP gateway enforcing zero-trust PII masking and regulatory compliance on LLMs (Credal style) | ✅ |
 | [genpark-esg-responsible-investment-portfolio-analyzer-skill](https://github.com/alphaparkinc/genpark-esg-responsible-investment-portfolio-analyzer-skill) | Developer / Agentic | Responsible & ESG investment portfolio analyzer (Portfolio Lab style) | ✅ |
 | [genpark-exploreyc-startup-matcher-skill](https://github.com/alphaparkinc/genpark-exploreyc-startup-matcher-skill) | Developer / Agentic | ExploreYC startup investment profile scanner | ✅ |
 | [genpark-facility-maintenance-dispatch-scheduler-skill](https://github.com/alphaparkinc/genpark-facility-maintenance-dispatch-scheduler-skill) | Developer / Agentic | Facility maintenance work order dispatch scheduler | ✅ |
@@ -413,6 +414,7 @@ A curated catalog of **760+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-lev8-prospect-researcher-skill](https://github.com/alphaparkinc/genpark-lev8-prospect-researcher-skill) | Developer / Agentic | Lev8-like AI prospecting tool to find, research, and score sales targets | ✅ |
 | [genpark-live-chat-triage-skill](https://github.com/alphaparkinc/genpark-live-chat-triage-skill) | Developer / Agentic | GenPark AI Skill - Triage customer chat messages by intent urgency and sentiment, route to the right team and suggest instant responses | ✅ |
 | [genpark-livestreaming-ecommerce-multi-room-gmv-optimizer-skill](https://github.com/alphaparkinc/genpark-livestreaming-ecommerce-multi-room-gmv-optimizer-skill) | Developer / Agentic | Livestream e-commerce multi-room monitoring & GMV sales optimizer (LiveLab style) | ✅ |
+| [genpark-llm-api-cost-audit-receipt-verifier-skill](https://github.com/alphaparkinc/genpark-llm-api-cost-audit-receipt-verifier-skill) | Developer / Agentic | Independent LLM API cost auditing engine verifying token counts and billing discrepancies (Inferock style) | ✅ |
 | [genpark-llm-api-cost-model-selector-optimizer-skill](https://github.com/alphaparkinc/genpark-llm-api-cost-model-selector-optimizer-skill) | Developer / Agentic | Intelligent LLM API cost analyzer, model tier selector & monthly spend optimizer | ✅ |
 | [genpark-llm-cost-tokens-monitor-skill](https://github.com/alphaparkinc/genpark-llm-cost-tokens-monitor-skill) | Developer / Agentic | Session tokens count and budget tracking helper | ✅ |
 | [genpark-llm-distributed-trace-latency-bottleneck-detector-skill](https://github.com/alphaparkinc/genpark-llm-distributed-trace-latency-bottleneck-detector-skill) | Developer / Agentic | LLM distributed trace analyzer & latency bottleneck detector (TraceLLM style) | ✅ |
@@ -425,8 +427,10 @@ A curated catalog of **760+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-llm-prompt-injection-jailbreak-firewall-skill](https://github.com/alphaparkinc/genpark-llm-prompt-injection-jailbreak-firewall-skill) | Developer / Agentic | Real-time LLM prompt injection, jailbreak & sensitive extraction firewall | ✅ |
 | [genpark-llm-token-budget-consumption-meter-governor-skill](https://github.com/alphaparkinc/genpark-llm-token-budget-consumption-meter-governor-skill) | Developer / Agentic | Self-custody LLM API key usage meter & token budget governor (Lettertrace style) | ✅ |
 | [genpark-llm-token-context-compressor-cost-reducer-skill](https://github.com/alphaparkinc/genpark-llm-token-context-compressor-cost-reducer-skill) | Developer / Agentic | High-efficiency LLM prompt context compressor & API cost reducer | ✅ |
+| [genpark-local-agent-hardware-access-governor-skill](https://github.com/alphaparkinc/genpark-local-agent-hardware-access-governor-skill) | Developer / Agentic | Local hardware AI agent access governor enforcing scoped filesystem, permissions and quotas (Plow Latch style) | ✅ |
 | [genpark-local-llm-fine-tuning-hardware-benchmark-skill](https://github.com/alphaparkinc/genpark-local-llm-fine-tuning-hardware-benchmark-skill) | Developer / Agentic | Local LLM fine-tuning orchestrator & GPU memory profiler (Unsloth style) | ✅ |
 | [genpark-localized-creator-pr-media-amplification-skill](https://github.com/alphaparkinc/genpark-localized-creator-pr-media-amplification-skill) | Developer / Agentic | Localized creator PR outreach & digital media amplification orchestrator | ✅ |
+| [genpark-longform-video-viral-short-repurposing-agent-skill](https://github.com/alphaparkinc/genpark-longform-video-viral-short-repurposing-agent-skill) | Developer / Agentic | AI video agent converting long-form webinars into viral 9:16 vertical shorts with hook detection (Vizard style) | ✅ |
 | [genpark-loomal-mcp-billing-gateway-skill](https://github.com/alphaparkinc/genpark-loomal-mcp-billing-gateway-skill) | Developer / Agentic | Loomal-like billing gateway for MCP servers usage | ✅ |
 | [genpark-loova-conversion-ad-skill](https://github.com/alphaparkinc/genpark-loova-conversion-ad-skill) | Developer / Agentic | Loova Ads Studio-like high-conversion ad creative generator | ✅ |
 | [genpark-loyalty-program-designer-skill](https://github.com/alphaparkinc/genpark-loyalty-program-designer-skill) | Developer / Agentic | GenPark AI Skill - Design tiered customer loyalty programs with points systems, rewards and ROI projections | ✅ |
@@ -484,6 +488,7 @@ A curated catalog of **760+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-multimodal-document-ocr-structure-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-document-ocr-structure-extractor-skill) | Developer / Agentic | Complex PDF/Image OCR, table layout parser & structured JSON extractor | ✅ |
 | [genpark-multimodal-generative-art-prompt-synthesis-engine-skill](https://github.com/alphaparkinc/genpark-multimodal-generative-art-prompt-synthesis-engine-skill) | Developer / Agentic | Multimodal generative art prompt synthesis & diffusion renderer (SeaArt style) | ✅ |
 | [genpark-multimodal-podcast-filler-word-remover-smart-cutter-skill](https://github.com/alphaparkinc/genpark-multimodal-podcast-filler-word-remover-smart-cutter-skill) | Developer / Agentic | Podcast filler word remover & viral clip smart cutter (Descript style) | ✅ |
+| [genpark-multimodal-video-semantic-search-clip-extractor-skill](https://github.com/alphaparkinc/genpark-multimodal-video-semantic-search-clip-extractor-skill) | Developer / Agentic | Multimodal video semantic search engine indexing video frames and audio to extract timestamped clips (Clipto style) | ✅ |
 | [genpark-multimodal-vision-document-flowchart-parser-skill](https://github.com/alphaparkinc/genpark-multimodal-vision-document-flowchart-parser-skill) | Developer / Agentic | Vision LLM flowchart, diagram & document structure parser to Mermaid | ✅ |
 | [genpark-nano-banana-photo-enhancer](https://github.com/alphaparkinc/genpark-nano-banana-photo-enhancer) | Developer / Agentic | GenPark Distilled Skill: nano-banana-photo-enhancer | ✅ |
 | [genpark-nano-banana-storyboarder](https://github.com/alphaparkinc/genpark-nano-banana-storyboarder) | Developer / Agentic | GenPark Distilled Skill: nano-banana-storyboarder | ✅ |
