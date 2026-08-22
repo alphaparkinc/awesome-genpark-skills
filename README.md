@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-740%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-802-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-745%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-807-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **740+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -91,13 +91,16 @@ A curated catalog of **740+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-contract-clause-risk-extractor-skill](https://github.com/alphaparkinc/genpark-ai-contract-clause-risk-extractor-skill) | Developer / Agentic | AI contract analyzer extracting risk clauses, scoring legal exposure and generating negotiation recommendations | ✅ |
 | [genpark-ai-customer-health-score-churn-predictor-skill](https://github.com/alphaparkinc/genpark-ai-customer-health-score-churn-predictor-skill) | Developer / Agentic | AI customer health scorer analyzing usage signals, predicting churn probability and triggering CS playbooks | ✅ |
 | [genpark-ai-developer-fullstack-builder-skill](https://github.com/alphaparkinc/genpark-ai-developer-fullstack-builder-skill) | Developer / Agentic | L4 autonomous coding agent file tree and deploy plan generator | ✅ |
+| [genpark-ai-devops-incident-postmortem-root-cause-analyzer-skill](https://github.com/alphaparkinc/genpark-ai-devops-incident-postmortem-root-cause-analyzer-skill) | Developer / Agentic | AI DevOps incident postmortem root cause analyzer generating MTTR metrics and action item reports | ✅ |
 | [genpark-ai-enterprise-proposal-pitch-builder-skill](https://github.com/alphaparkinc/genpark-ai-enterprise-proposal-pitch-builder-skill) | Developer / Agentic | Automated enterprise RFP & proposal builder (G2 Proposal style) | ✅ |
 | [genpark-ai-evaluation-custom-benchmark-runner-skill](https://github.com/alphaparkinc/genpark-ai-evaluation-custom-benchmark-runner-skill) | Developer / Agentic | Real-world AI task evaluation & custom benchmark runner (oqoqo style) | ✅ |
 | [genpark-ai-fact-checker-skill](https://github.com/alphaparkinc/genpark-ai-fact-checker-skill) | Developer / Agentic | Statement fact verifier with TRUE/FALSE/PARTIAL verdict | ✅ |
 | [genpark-ai-financial-crime-transaction-pattern-detector-skill](https://github.com/alphaparkinc/genpark-ai-financial-crime-transaction-pattern-detector-skill) | Developer / Agentic | Agentic financial crime detector: flags AML/fraud patterns & generates regulatory SAR draft reports | ✅ |
 | [genpark-ai-gateway-proxy-router-governance-skill](https://github.com/alphaparkinc/genpark-ai-gateway-proxy-router-governance-skill) | Developer / Agentic | AI Gateway proxy router, rate limiting & PII masking engine (ngrok style) | ✅ |
 | [genpark-ai-generated-code-vulnerability-taint-patcher-skill](https://github.com/alphaparkinc/genpark-ai-generated-code-vulnerability-taint-patcher-skill) | Developer / Agentic | AI code vulnerability scanner & AST taint patcher (VulX style) | ✅ |
+| [genpark-ai-hiring-resume-structured-scorecard-evaluator-skill](https://github.com/alphaparkinc/genpark-ai-hiring-resume-structured-scorecard-evaluator-skill) | Developer / Agentic | AI resume evaluator scoring candidates against structured job scorecards with hire recommendations | ✅ |
 | [genpark-ai-integration-platform-api-mesh-connector-skill](https://github.com/alphaparkinc/genpark-ai-integration-platform-api-mesh-connector-skill) | Developer / Agentic | AI-powered API mesh connector for real-time cross-platform data integration and bidirectional sync | ✅ |
+| [genpark-ai-localization-multilingual-content-quality-validator-skill](https://github.com/alphaparkinc/genpark-ai-localization-multilingual-content-quality-validator-skill) | Developer / Agentic | AI multilingual translation quality validator checking accuracy, terminology and UI truncation risks | ✅ |
 | [genpark-ai-marketing-agent-campaign-lifecycle-manager-skill](https://github.com/alphaparkinc/genpark-ai-marketing-agent-campaign-lifecycle-manager-skill) | Developer / Agentic | Autonomous AI marketing agent planning, launching & optimizing full-funnel campaign lifecycles (G2 Marketing Agents) | ✅ |
 | [genpark-ai-meeting-lifecycle-crm-sync-action-executor-skill](https://github.com/alphaparkinc/genpark-ai-meeting-lifecycle-crm-sync-action-executor-skill) | Developer / Agentic | AI meeting note taker, transcript summarizer & CRM deal field sync executor (Fireflies/n8n style) | ✅ |
 | [genpark-ai-meeting-transcript-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-ai-meeting-transcript-action-item-extractor-skill) | Developer / Agentic | Meeting transcript intelligent summarizer & action item extractor | ✅ |
@@ -107,6 +110,7 @@ A curated catalog of **740+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-native-devops-iac-synthesizer-skill](https://github.com/alphaparkinc/genpark-ai-native-devops-iac-synthesizer-skill) | Developer / Agentic | AI-native DevOps workspace, Terraform IaC synthesizer & drift detector (Nuphos style) | ✅ |
 | [genpark-ai-photo-enhancement-super-resolution-retoucher-skill](https://github.com/alphaparkinc/genpark-ai-photo-enhancement-super-resolution-retoucher-skill) | Developer / Agentic | High-fidelity AI photo enhancement & super-resolution upscaler (Fotor style) | ✅ |
 | [genpark-ai-presentation-slide-narrative-generator-skill](https://github.com/alphaparkinc/genpark-ai-presentation-slide-narrative-generator-skill) | Developer / Agentic | AI presentation architect converting raw data into structured slide decks with speaker notes (G2 Presentation AI) | ✅ |
+| [genpark-ai-product-roadmap-prioritization-scoring-engine-skill](https://github.com/alphaparkinc/genpark-ai-product-roadmap-prioritization-scoring-engine-skill) | Developer / Agentic | AI product roadmap RICE/ICE prioritization engine ranking features and generating sprint recommendations | ✅ |
 | [genpark-ai-qa-test-generator-skill](https://github.com/alphaparkinc/genpark-ai-qa-test-generator-skill) | Developer / Agentic | Automated QA regression test case generator from feature desc | ✅ |
 | [genpark-ai-regulatory-compliance-export-control-scanner-skill](https://github.com/alphaparkinc/genpark-ai-regulatory-compliance-export-control-scanner-skill) | Developer / Agentic | AI regulatory compliance, export control directive & safety audit scanner | ✅ |
 | [genpark-ai-revenue-forecasting-pipeline-variance-analyzer-skill](https://github.com/alphaparkinc/genpark-ai-revenue-forecasting-pipeline-variance-analyzer-skill) | Developer / Agentic | AI revenue forecasting engine analyzing pipeline variance by segment and flagging Q close slippage risks | ✅ |
@@ -117,6 +121,7 @@ A curated catalog of **740+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-slides-deck-builder-skill](https://github.com/alphaparkinc/genpark-ai-slides-deck-builder-skill) | Developer / Agentic | AI-powered presentation deck outline and slide structure | ✅ |
 | [genpark-ai-social-ad-creative-multi-variant-generator-skill](https://github.com/alphaparkinc/genpark-ai-social-ad-creative-multi-variant-generator-skill) | Developer / Agentic | AI social ad creative engine for multi-variant high-converting ad copy & CTA A/B testing (AdAnt AI style) | ✅ |
 | [genpark-ai-sre-observability-root-cause-diagnoser-skill](https://github.com/alphaparkinc/genpark-ai-sre-observability-root-cause-diagnoser-skill) | Developer / Agentic | AI SRE telemetry & root-cause incident auto-healing (G2 SRE style) | ✅ |
+| [genpark-ai-supply-chain-demand-forecast-inventory-optimizer-skill](https://github.com/alphaparkinc/genpark-ai-supply-chain-demand-forecast-inventory-optimizer-skill) | Developer / Agentic | AI supply chain demand forecaster and inventory optimizer reducing stockouts and overstock waste | ✅ |
 | [genpark-ai-vibe-coder-refactoring-engine-skill](https://github.com/alphaparkinc/genpark-ai-vibe-coder-refactoring-engine-skill) | Developer / Agentic | Natural language vibe coding refactoring & codebase optimization (Kastra style) | ✅ |
 | [genpark-ai-video-caption-subtitle-generator-skill](https://github.com/alphaparkinc/genpark-ai-video-caption-subtitle-generator-skill) | Developer / Agentic | Word-level animated subtitle and auto-caption generator for video (CapCut style) | ✅ |
 | [genpark-ai-video-multimodal-motion-brush-animator-skill](https://github.com/alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill) | Developer / Agentic | Multimodal image-to-video motion control & camera trajectory animator | ✅ |
