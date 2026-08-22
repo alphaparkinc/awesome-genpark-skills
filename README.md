@@ -1,12 +1,12 @@
 # 🌟 Awesome GenPark AI Skills Catalog
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Total Skills](https://img.shields.io/badge/Total%20Skills-745%2B-blue)](https://github.com/alphaparkinc)
-[![Public Repos](https://img.shields.io/badge/Public%20Repos-807-orange)](https://github.com/alphaparkinc)
+[![Total Skills](https://img.shields.io/badge/Total%20Skills-750%2B-blue)](https://github.com/alphaparkinc)
+[![Public Repos](https://img.shields.io/badge/Public%20Repos-812-orange)](https://github.com/alphaparkinc)
 [![Standard](https://img.shields.io/badge/Protocol-MCP%20Compatible-purple)](https://modelcontextprotocol.io)
 [![License MIT](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
-A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
+A curated catalog of **750+ production-grade, zero-dependency AI Agent Skills** built for autonomous execution, multi-agent frameworks, Cursor, Claude Desktop, and the Model Context Protocol (MCP).
 
 ---
 
@@ -74,6 +74,7 @@ A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-agentic-markdown](https://github.com/alphaparkinc/genpark-agentic-markdown) | Developer / Agentic | A markdown processor optimized for human-AI co-creation. | ✅ |
 | [genpark-agentic-memory-context-compressor-skill](https://github.com/alphaparkinc/genpark-agentic-memory-context-compressor-skill) | Developer / Agentic | Agent conversation memory sliding window context compressor | ✅ |
 | [genpark-agentic-project-management-canvas-skill](https://github.com/alphaparkinc/genpark-agentic-project-management-canvas-skill) | Developer / Agentic | Autonomous project management canvas (RunEvr style) | ✅ |
+| [genpark-agentic-qe-full-stack-test-plan-executor-skill](https://github.com/alphaparkinc/genpark-agentic-qe-full-stack-test-plan-executor-skill) | Developer / Agentic | Agentic QE platform automating full-stack test plan creation, execution and release gate decisions (TestMu AI style) | ✅ |
 | [genpark-agentic-quality-engineering-test-matrix-automator-skill](https://github.com/alphaparkinc/genpark-agentic-quality-engineering-test-matrix-automator-skill) | Developer / Agentic | Agentic QE, self-healing test automation & coverage matrix (TestMu style) | ✅ |
 | [genpark-agentic-social-listener-skill](https://github.com/alphaparkinc/genpark-agentic-social-listener-skill) | Developer / Agentic | Agentic Social Listener Skill. Automatically scans social brand mentions, classifies sentiments, and generates replies. | ✅ |
 | [genpark-agentic-software-engineer-code-synthesis-skill](https://github.com/alphaparkinc/genpark-agentic-software-engineer-code-synthesis-skill) | Developer / Agentic | Agentic software engineer for full-stack application synthesis (LaraCopilot style) | ✅ |
@@ -126,6 +127,7 @@ A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-ai-video-caption-subtitle-generator-skill](https://github.com/alphaparkinc/genpark-ai-video-caption-subtitle-generator-skill) | Developer / Agentic | Word-level animated subtitle and auto-caption generator for video (CapCut style) | ✅ |
 | [genpark-ai-video-multimodal-motion-brush-animator-skill](https://github.com/alphaparkinc/genpark-ai-video-multimodal-motion-brush-animator-skill) | Developer / Agentic | Multimodal image-to-video motion control & camera trajectory animator | ✅ |
 | [genpark-ai-visibility-brand-mention-tracker-skill](https://github.com/alphaparkinc/genpark-ai-visibility-brand-mention-tracker-skill) | Developer / Agentic | AI LLM visibility tracker monitoring brand share of voice (Lettertrace style) | ✅ |
+| [genpark-ai-web-scraper-self-healing-plain-english-builder-skill](https://github.com/alphaparkinc/genpark-ai-web-scraper-self-healing-plain-english-builder-skill) | Developer / Agentic | AI web scraper builder from plain-English with self-healing selectors that auto-adapt to site changes (BrowserAct style) | ✅ |
 | [genpark-algorithmic-market-signal-parser-risk-order-executor-skill](https://github.com/alphaparkinc/genpark-algorithmic-market-signal-parser-risk-order-executor-skill) | Developer / Agentic | Algorithmic market signal parser & risk-constrained order executor (OpenTrade style) | ✅ |
 | [genpark-amami-agent-analytics-skill](https://github.com/alphaparkinc/genpark-amami-agent-analytics-skill) | Developer / Agentic | Amami built-in agent analytics estimator | ✅ |
 | [genpark-amazon-author-ranker](https://github.com/alphaparkinc/genpark-amazon-author-ranker) | Developer / Agentic | GenPark Distilled Skill: amazon-author-ranker | ✅ |
@@ -426,7 +428,9 @@ A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-marketing-banner-agent-skill](https://github.com/alphaparkinc/genpark-marketing-banner-agent-skill) | Developer / Agentic | GenPark seasonal promo web page banner matching scheduler skill. | ✅ |
 | [genpark-marketing-cloud-sql-audience-generator-skill](https://github.com/alphaparkinc/genpark-marketing-cloud-sql-audience-generator-skill) | Developer / Agentic | Natural language audience intent to Marketing Cloud SQL generator | ✅ |
 | [genpark-marketing-email-spamprevent-skill](https://github.com/alphaparkinc/genpark-marketing-email-spamprevent-skill) | Developer / Agentic | GenPark AI Skill - Scan marketing newsletter drafts to prevent spam block listing issues | ✅ |
+| [genpark-mcp-server-gateway-token-optimizer-skill](https://github.com/alphaparkinc/genpark-mcp-server-gateway-token-optimizer-skill) | Developer / Agentic | MCP server gateway eliminating tool-list bloat by injecting only task-relevant tools into agent context (Toolport style) | ✅ |
 | [genpark-mcp-server-tool-schema-validator-skill](https://github.com/alphaparkinc/genpark-mcp-server-tool-schema-validator-skill) | Developer / Agentic | Model Context Protocol (MCP) server tool JSON schema validator | ✅ |
+| [genpark-meeting-bot-unified-api-realtime-crm-pusher-skill](https://github.com/alphaparkinc/genpark-meeting-bot-unified-api-realtime-crm-pusher-skill) | Developer / Agentic | Meeting bot unified API joining calls, capturing real-time transcripts and pushing signals to CRMs (Meetstream style) | ✅ |
 | [genpark-meeting-notes-action-item-extractor-skill](https://github.com/alphaparkinc/genpark-meeting-notes-action-item-extractor-skill) | Developer / Agentic | Meeting transcript key action item & decision extractor | ✅ |
 | [genpark-meeting-to-tickets](https://github.com/alphaparkinc/genpark-meeting-to-tickets) | Developer / Agentic | Automatically processes meeting transcripts and generates structured JSON Product Requirement Documents (PRD) and Jira/Linear tickets. | ✅ |
 | [genpark-memory-lake](https://github.com/alphaparkinc/genpark-memory-lake) | Developer / Agentic | Local, private, and portable lifelong memory management for AI agents. | ✅ |
@@ -607,6 +611,7 @@ A curated catalog of **745+ production-grade, zero-dependency AI Agent Skills** 
 | [genpark-search-integration-skill](https://github.com/alphaparkinc/genpark-search-integration-skill) | Developer / Agentic | GenPark search API integration skill. Matches query parameters, extracts references and outputs formatted citations. | ✅ |
 | [genpark-search-redirection-skill](https://github.com/alphaparkinc/genpark-search-redirection-skill) | Developer / Agentic | GenPark search query redirection router mapping queries to landers. | ✅ |
 | [genpark-search-synonym-agent-skill](https://github.com/alphaparkinc/genpark-search-synonym-agent-skill) | Developer / Agentic | GenPark search query synonym matching optimizer and spelling errors corrector skill. | ✅ |
+| [genpark-secure-agent-automation-audit-workflow-manager-skill](https://github.com/alphaparkinc/genpark-secure-agent-automation-audit-workflow-manager-skill) | Developer / Agentic | Secure agent automation with full audit trail, human approval gates and compliance-grade orchestration (Tines 3B style) | ✅ |
 | [genpark-security-vulnerability-dependency-scanner-skill](https://github.com/alphaparkinc/genpark-security-vulnerability-dependency-scanner-skill) | Developer / Agentic | Software dependency vulnerability & CVE scanner | ✅ |
 | [genpark-self-driving-software-agent-autonomous-task-runner-skill](https://github.com/alphaparkinc/genpark-self-driving-software-agent-autonomous-task-runner-skill) | Developer / Agentic | Self-driving software agent & error self-healing runner (Coldtea style) | ✅ |
 | [genpark-self-driving-web-application-action-driver-skill](https://github.com/alphaparkinc/genpark-self-driving-web-application-action-driver-skill) | Developer / Agentic | Self-driving web application action driver & headless browser agent (Coldtea style) | ✅ |
